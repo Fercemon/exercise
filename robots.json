@@ -1,0 +1,123 @@
+[
+      {
+        "face": "#b2b2b2",
+        "outEye": "#1d1d1b",
+        "insideEye": "#e30613",
+        "antenna": "#b2b2b2",
+        "ball": "#e30613",
+        "mouth": "#878787",
+        "mouthBorder": "#dadada",
+        "teeth": "#3c3c3b",
+        "name": "Alvaro",
+        "age": 12
+      },
+      {
+        "face": "#B6C4A7",
+        "outEye": "#545B61",
+        "insideEye": "#FF5263",
+        "antenna": "#3E4347",
+        "ball": "#00B9F1",
+        "mouth": "#89967A",
+        "mouthBorder": "#EFFFD9",
+        "teeth": "#555C56",
+        "name": "Roberto",
+        "age": 15
+      },
+      {
+        "face": "#b2b2b2",
+        "outEye": "#1d1d1b",
+        "insideEye": "#e30613",
+        "antenna": "#b2b2b2",
+        "ball": "#e30613",
+        "mouth": "#878787",
+        "mouthBorder": "#dadada",
+        "teeth": "#3c3c3b",
+        "name": "Sergio",
+        "age": 20
+      },
+      {
+        "face": "#B6C4A7",
+        "outEye": "#545B61",
+        "insideEye": "#FF5263",
+        "antenna": "#3E4347",
+        "ball": "#00B9F1",
+        "mouth": "#89967A",
+        "mouthBorder": "#EFFFD9",
+        "teeth": "#555C56",
+        "name": "Manuel",
+        "age": 10
+      },
+      {
+        "face": "#b2b2b2",
+        "outEye": "#1d1d1b",
+        "insideEye": "#e30613",
+        "antenna": "#b2b2b2",
+        "ball": "#e30613",
+        "mouth": "#878787",
+        "mouthBorder": "#dadada",
+        "teeth": "#3c3c3b",
+        "name": "Luis",
+        "age": 22
+      },
+      {
+        "face": "#B6C4A7",
+        "outEye": "#545B61",
+        "insideEye": "#FF5263",
+        "antenna": "#3E4347",
+        "ball": "#00B9F1",
+        "mouth": "#89967A",
+        "mouthBorder": "#EFFFD9",
+        "teeth": "#555C56",
+        "name": "Alejandro",
+        "age": 7
+      },
+      {
+        "face": "#b2b2b2",
+        "outEye": "#1d1d1b",
+        "insideEye": "#e30613",
+        "antenna": "#b2b2b2",
+        "ball": "#e30613",
+        "mouth": "#878787",
+        "mouthBorder": "#dadada",
+        "teeth": "#3c3c3b",
+        "name": "Juan",
+        "age": 13
+      },
+      {
+        "face": "#B6C4A7",
+        "outEye": "#545B61",
+        "insideEye": "#FF5263",
+        "antenna": "#3E4347",
+        "ball": "#00B9F1",
+        "mouth": "#89967A",
+        "mouthBorder": "#EFFFD9",
+        "teeth": "#555C56",
+        "name": "Antonio",
+        "age": 25
+      },
+      {
+        "face": "#b2b2b2",
+        "outEye": "#1d1d1b",
+        "insideEye": "#e30613",
+        "antenna": "#b2b2b2",
+        "ball": "#e30613",
+        "mouth": "#878787",
+        "mouthBorder": "#dadada",
+        "teeth": "#3c3c3b",
+        "name": "Pedro",
+        "age": 5
+      },
+      {
+        "face": "#B6C4A7",
+        "outEye": "#545B61",
+        "insideEye": "#FF5263",
+        "antenna": "#3E4347",
+        "ball": "#00B9F1",
+        "mouth": "#89967A",
+        "mouthBorder": "#EFFFD9",
+        "teeth": "#555C56",
+        "name": "Raul",
+        "age": 20
+      }
+
+    ]
